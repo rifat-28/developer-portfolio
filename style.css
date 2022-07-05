@@ -37,3 +37,27 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.resume {
+    background-image: radial-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.big {
+    width: 60%;
+    padding-right: 2%;
+}
+
+.big img {
+    width: 80%;
+    padding-left: 10%;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
